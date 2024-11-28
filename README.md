@@ -1,6 +1,6 @@
-# Beginner Python Projects Repository
+# Beginner Project
 
-Welcome to the Beginner Python Projects repository! This repo is a hub for documenting our journey into Python and data science. We will use it to share links to our Medium articles, which cover beginner-friendly topics and concepts. 
+Welcome to this repository! This repo is a hub for documenting our journey into Python and data science. We will use it to share links to our Medium articles, which cover beginner-friendly topics and concepts. 
 
 ---
 
